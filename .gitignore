@@ -1,0 +1,7 @@
+captures/
+assets/
+build/
+dist/
+src/
+app.spec
+.DS_Store

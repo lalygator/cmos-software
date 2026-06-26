@@ -1,0 +1,6 @@
+PyQt6
+astropy
+datetime
+numpy
+scipy
+matplotlib

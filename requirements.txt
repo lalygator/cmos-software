@@ -4,3 +4,8 @@ datetime
 numpy
 scipy
 matplotlib
+tqdm
+pandas
+seaborn
+specutils
+pypeit

@@ -15,3 +15,13 @@ Made to take image using the XIMEA Xic camera with IMX 174 Sony detector
 ## Data analysis
 
 Jupyter Notebook made to automatically use calibration frames and visualize the spectra
+
+- Next step :
+
+- add case (should be used remotly like DMD)
+- two design : fiber holder
+- - Need to be able to explain exactly what is needed for fiber (three point holder)
+- - need to be able to use adapter remotely (usb with driver?) (how is data transported ?)
+(adapatability with nina ?)
+
+issue with detector itself ? there is a sharp 

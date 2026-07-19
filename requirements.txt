@@ -11,3 +11,6 @@ specutils
 pypeit
 lmfit
 scikit-image
+photutils
+opencv-python
+ipywidgets

@@ -14,3 +14,4 @@ scikit-image
 photutils
 opencv-python
 ipywidgets
+ipympl
